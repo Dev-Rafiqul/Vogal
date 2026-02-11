@@ -1,0 +1,1 @@
+chrome-extension://akdgnmcogleenhbclghghlkkdndkjdjc/static/svg/close.svg
